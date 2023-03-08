@@ -25,5 +25,3 @@ for (let i = 9; i < 17; i++) {
     }
 }});
 
-localStorage.setItem('myCat', 'Tom');
-var cat = localStorage.getItem('myCat');
